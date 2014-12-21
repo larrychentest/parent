@@ -1,0 +1,3 @@
+[submodule "subs/sub1"]
+	path = subs/sub1
+	url = https://github.com/larrychentest/sub1.git
